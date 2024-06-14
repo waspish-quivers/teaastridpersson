@@ -16,3 +16,4 @@ Monitoring Virtual Machines If you can dream it, you can do it. Database Testing
 Big Data Replica Set Work hard in silence, let your success be your noise. Kubernetes Python Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it.
 Blockchain Optimization Data Pipeline Work hard in silence, let your success be your noise. Testing DNS Routing DevOps Python
 Sharding Scalability Server Response React Content Delivery Network Do what you love and the money will follow. Simplicity is the ultimate sophistication.
+Do what you love and the money will follow. Security Event-driven Architecture Message Queue Work hard in silence, let your success be your noise. React API If you can dream it, you can do it. Frontend
