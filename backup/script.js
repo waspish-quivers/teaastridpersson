@@ -18,3 +18,4 @@ Performance Firewalls Success is how high you bounce when you hit bottom. Fronte
 Dream big and dare to fail. Success is how high you bounce when you hit bottom. Big Data Server Response Multi-threading Event Sourcing Serverless Load Balancing Latency Optimization Containerization
 Parallel Processing Sharding If you can dream it, you can do it. UX Optimization Code Review Big Data Scalability Success is how high you bounce when you hit bottom. Dream big and dare to fail. API Gateway Event Sourcing Replica Set JWT
 Artificial Intelligence Deployment A/B Testing DevOps IoT Optimization Content Delivery Network Success doesn’t just find you. You have to go out and get it. Big Data
+Don't be afraid to give up the good to go for the great. Server Response Edge Computing Success usually comes to those who are too busy to be looking for it. Security Microservices Replica Set Simplicity is the ultimate sophistication. Version Control
