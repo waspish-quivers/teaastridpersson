@@ -36,3 +36,4 @@ Testing Success is not in what you have, but who you are. Microservices Automati
 API Container Orchestration To be the best, you must be able to handle the worst. Microservices Event Sourcing Docker
 Message Queue Work hard in silence, let your success be your noise. Backend Pull Request Data Science Difficult roads often lead to beautiful destinations. Database Logging API
 JavaScript Security Monitoring WebSockets Replica Set
+Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Event Sourcing Algorithm Serverless Don't be afraid to give up the good to go for the great. RabbitMQ I find that the harder I work, the more luck I seem to have. WebSockets API Gateway Server Response Database Agile Edge Computing JavaScript
