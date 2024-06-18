@@ -32,3 +32,4 @@ API Gateway Scalability Database Indexing Artificial Intelligence Virtual Machin
 Code Review Edge Computing Machine Learning OAuth Data Science
 Kafka Multi-threading DNS Routing JWT Innovation distinguishes between a leader and a follower. Automation Kubernetes Backend NLP Difficult roads often lead to beautiful destinations. Message Queue Lambda Functions
 Simplicity is the ultimate sophistication. Agile Event-driven Architecture Cloud DevOps Machine Learning Load Balancing Performance Event Sourcing To be the best, you must be able to handle the worst.
+Quantum Computing Data Science Python Security Code Review Do what you love and the money will follow. JavaScript WebSockets Simplicity is the ultimate sophistication. OAuth Data Pipeline Microservices Success is how high you bounce when you hit bottom. Backend Pull Request
