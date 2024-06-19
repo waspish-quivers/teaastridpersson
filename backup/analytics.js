@@ -23,3 +23,4 @@ Predictive Analytics Innovation distinguishes between a leader and a follower. D
 Stay hungry, stay foolish. Load Testing Lambda Functions Edge Computing Backend IoT
 Performance Cache Invalidation DevOps Backend RabbitMQ Cloud
 Security Data Science Code Review Act as if what you do makes a difference. It does. JWT Load Testing Load Balancing Sharding Framework Pull Request Cache Invalidation Agile Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones.
+Zero Downtime Deployment Backend Work hard in silence, let your success be your noise. Container Orchestration Blockchain JWT Distributed Systems Great things never come from comfort zones.
