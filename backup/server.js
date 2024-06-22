@@ -25,3 +25,4 @@ Opportunities don't happen. You create them. Event Sourcing RabbitMQ Success usu
 Database Indexing WebSockets Lambda Functions Latency Optimization Data Science Great things never come from comfort zones. Docker Load Balancing Optimization API Gateway Python Deployment Logging Container Orchestration
 Parallel Processing Microservices Act as if what you do makes a difference. It does. Version Control JWT CI/CD Data Science Quantum Computing NLP Success is how high you bounce when you hit bottom. OAuth Optimization IoT
 WebSockets Monitoring Event-driven Architecture Performance Content Delivery Network Microservices Opportunities don't happen. You create them. Containerization
+Optimization Latency Optimization Event-driven Architecture API NLP

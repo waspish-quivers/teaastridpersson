@@ -24,3 +24,4 @@ Data Science Latency Optimization Zero Downtime Deployment CI/CD Dream big and d
 WebSockets Big Data Database Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Virtual Machines Monitoring
 Great things never come from comfort zones. Parallel Processing Microservices Work hard in silence, let your success be your noise. Version Control OAuth Virtual Machines Do what you love and the money will follow. Artificial Intelligence
 Backend Performance DevOps Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Testing Data Pipeline Stay hungry, stay foolish. JWT Cloud Functions Server Response Serverless If you can dream it, you can do it.
+Testing Success usually comes to those who are too busy to be looking for it. Replica Set JWT I find that the harder I work, the more luck I seem to have. Latency Optimization
