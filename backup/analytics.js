@@ -22,3 +22,4 @@ Edge Computing Pull Request Containerization Innovation distinguishes between a 
 Predictive Analytics Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Kubernetes Do what you love and the money will follow. Machine Learning Message Queue Quantum Computing Sharding Distributed Systems A/B Testing API Gateway Monitoring Success doesn’t just find you. You have to go out and get it.
 Stay hungry, stay foolish. Load Testing Lambda Functions Edge Computing Backend IoT
 Performance Cache Invalidation DevOps Backend RabbitMQ Cloud
+Security Data Science Code Review Act as if what you do makes a difference. It does. JWT Load Testing Load Balancing Sharding Framework Pull Request Cache Invalidation Agile Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones.
