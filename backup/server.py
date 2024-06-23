@@ -21,3 +21,4 @@ Cache Invalidation Load Balancing Event Sourcing Pull Request Neural Networks Da
 Big Data Virtual Machines NLP Parallel Processing Cloud Functions React Monitoring Database
 Multi-threading Machine Learning Load Testing Firewalls Innovation distinguishes between a leader and a follower. A/B Testing Scalability DevOps If you can dream it, you can do it.
 Framework GraphQL Virtual Machines Multi-threading Stay hungry, stay foolish. Do what you love and the money will follow.
+Opportunities don't happen. You create them. Quantum Computing Edge Computing CI/CD Work hard in silence, let your success be your noise. Message Queue Multi-threading Lambda Functions Distributed Systems IoT
