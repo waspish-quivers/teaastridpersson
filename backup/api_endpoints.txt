@@ -23,3 +23,4 @@ Act as if what you do makes a difference. It does. Docker Success usually comes 
 Backend Serverless Stay hungry, stay foolish. Containerization Kafka Load Testing Cache Invalidation The only way to do great work is to love what you do.
 Docker Security Parallel Processing Pull Request Replica Set NLP Neural Networks Act as if what you do makes a difference. It does. Data Pipeline DNS Routing Event Sourcing Virtual Machines
 Replica Set NLP Pull Request Docker Virtual Machines
+Parallel Processing Event Sourcing Work hard in silence, let your success be your noise. OAuth API Difficult roads often lead to beautiful destinations. Cloud To be the best, you must be able to handle the worst. Quantum Computing Server Response Happiness is not something ready made. It comes from your own actions.
