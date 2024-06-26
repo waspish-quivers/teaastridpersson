@@ -21,3 +21,4 @@ Stay hungry, stay foolish. Deployment JWT Pull Request Quantum Computing API Dat
 Agile Pull Request I find that the harder I work, the more luck I seem to have. Backend Success doesn’t just find you. You have to go out and get it. API Cache Invalidation Success is how high you bounce when you hit bottom. JavaScript Blockchain Act as if what you do makes a difference. It does. React Database
 Load Testing Server Response Success is not in what you have, but who you are. Blockchain Frontend Virtual Machines Don't be afraid to give up the good to go for the great. Message Queue
 Testing Deployment The only way to do great work is to love what you do. Kubernetes Serverless Dream big and dare to fail. Opportunities don't happen. You create them. Virtual Machines RabbitMQ Cache Invalidation
+Database Indexing Backend Kafka Testing Deployment UX Optimization NLP Logging Serverless Firewalls Automation Neural Networks Event Sourcing Content Delivery Network
