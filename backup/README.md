@@ -31,3 +31,4 @@ Event Sourcing DevOps Pull Request JWT Algorithm API Distributed Systems Load Ba
 API Gateway Scalability Database Indexing Artificial Intelligence Virtual Machines WebSockets Distributed Systems Parallel Processing Version Control Content Delivery Network Framework
 Code Review Edge Computing Machine Learning OAuth Data Science
 Kafka Multi-threading DNS Routing JWT Innovation distinguishes between a leader and a follower. Automation Kubernetes Backend NLP Difficult roads often lead to beautiful destinations. Message Queue Lambda Functions
+Simplicity is the ultimate sophistication. Agile Event-driven Architecture Cloud DevOps Machine Learning Load Balancing Performance Event Sourcing To be the best, you must be able to handle the worst.
