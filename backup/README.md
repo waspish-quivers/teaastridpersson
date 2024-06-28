@@ -30,3 +30,4 @@ Firewalls UX Optimization Artificial Intelligence Do what you love and the money
 Event Sourcing DevOps Pull Request JWT Algorithm API Distributed Systems Load Balancing Work hard in silence, let your success be your noise. Replica Set Cache Invalidation Cloud If you can dream it, you can do it.
 API Gateway Scalability Database Indexing Artificial Intelligence Virtual Machines WebSockets Distributed Systems Parallel Processing Version Control Content Delivery Network Framework
 Code Review Edge Computing Machine Learning OAuth Data Science
+Kafka Multi-threading DNS Routing JWT Innovation distinguishes between a leader and a follower. Automation Kubernetes Backend NLP Difficult roads often lead to beautiful destinations. Message Queue Lambda Functions
