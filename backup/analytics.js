@@ -20,3 +20,4 @@ Dream big and dare to fail. Do what you love and the money will follow. Virtual 
 CI/CD Performance Database Act as if what you do makes a difference. It does. Docker Predictive Analytics Event Sourcing Pull Request Scalability Neural Networks Load Balancing
 Edge Computing Pull Request Containerization Innovation distinguishes between a leader and a follower. Serverless GraphQL Testing Blockchain Predictive Analytics Cache Invalidation DNS Routing Scalability Kubernetes If you can dream it, you can do it.
 Predictive Analytics Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Kubernetes Do what you love and the money will follow. Machine Learning Message Queue Quantum Computing Sharding Distributed Systems A/B Testing API Gateway Monitoring Success doesn’t just find you. You have to go out and get it.
+Stay hungry, stay foolish. Load Testing Lambda Functions Edge Computing Backend IoT
