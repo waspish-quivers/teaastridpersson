@@ -33,3 +33,4 @@ Machine Learning Big Data Cache Invalidation Testing Logging API Gateway Kafka U
 NLP Big Data Parallel Processing Lambda Functions Act as if what you do makes a difference. It does.
 If you can dream it, you can do it. Cache Invalidation Performance Security Testing The only way to do great work is to love what you do. A/B Testing I find that the harder I work, the more luck I seem to have. Edge Computing Stay hungry, stay foolish. NLP
 Testing Success is not in what you have, but who you are. Microservices Automation JWT Frontend Pull Request Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Data Science Artificial Intelligence
+API Container Orchestration To be the best, you must be able to handle the worst. Microservices Event Sourcing Docker
