@@ -29,3 +29,4 @@ Do what you love and the money will follow. Automation Database Indexing Code Re
 Firewalls UX Optimization Artificial Intelligence Do what you love and the money will follow. Machine Learning
 Event Sourcing DevOps Pull Request JWT Algorithm API Distributed Systems Load Balancing Work hard in silence, let your success be your noise. Replica Set Cache Invalidation Cloud If you can dream it, you can do it.
 API Gateway Scalability Database Indexing Artificial Intelligence Virtual Machines WebSockets Distributed Systems Parallel Processing Version Control Content Delivery Network Framework
+Code Review Edge Computing Machine Learning OAuth Data Science
