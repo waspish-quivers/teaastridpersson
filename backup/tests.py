@@ -30,3 +30,4 @@ Container Orchestration To be the best, you must be able to handle the worst. OA
 I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. DevOps Stay hungry, stay foolish. Dream big and dare to fail. Server Response Data Pipeline Cache Invalidation Cloud Success doesn’t just find you. You have to go out and get it. RabbitMQ Code Review
 Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Content Delivery Network OAuth Kubernetes Scalability API Parallel Processing React Automation
 Machine Learning Big Data Cache Invalidation Testing Logging API Gateway Kafka UX Optimization Framework Event-driven Architecture NLP
+NLP Big Data Parallel Processing Lambda Functions Act as if what you do makes a difference. It does.

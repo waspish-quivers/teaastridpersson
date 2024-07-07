@@ -22,3 +22,4 @@ Predictive Analytics Event Sourcing JavaScript Code Review Work hard in silence,
 Act as if what you do makes a difference. It does. Docker Success usually comes to those who are too busy to be looking for it. Code Review Containerization Logging Server Response Data Science API Gateway
 Backend Serverless Stay hungry, stay foolish. Containerization Kafka Load Testing Cache Invalidation The only way to do great work is to love what you do.
 Docker Security Parallel Processing Pull Request Replica Set NLP Neural Networks Act as if what you do makes a difference. It does. Data Pipeline DNS Routing Event Sourcing Virtual Machines
+Replica Set NLP Pull Request Docker Virtual Machines
