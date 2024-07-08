@@ -21,3 +21,4 @@ Version Control Sharding The only way to do great work is to love what you do. I
 If you can dream it, you can do it. Kubernetes Message Queue Frontend Great things never come from comfort zones. IoT
 Deployment Monitoring JavaScript Automation Content Delivery Network Zero Downtime Deployment
 Content Delivery Network Artificial Intelligence Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Cloud Difficult roads often lead to beautiful destinations. Distributed Systems NLP
+Difficult roads often lead to beautiful destinations. Data Pipeline IoT Event Sourcing Dream big and dare to fail. WebSockets Load Testing Success is how high you bounce when you hit bottom. Kafka Parallel Processing Event-driven Architecture Great things never come from comfort zones.
