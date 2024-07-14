@@ -16,3 +16,4 @@ Backend Cache Invalidation API Load Balancing Machine Learning Scalability Succe
 Load Balancing Python RabbitMQ UX Optimization API
 Performance Firewalls Success is how high you bounce when you hit bottom. Frontend Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Code Review Event Sourcing API Load Balancing Docker
 Dream big and dare to fail. Success is how high you bounce when you hit bottom. Big Data Server Response Multi-threading Event Sourcing Serverless Load Balancing Latency Optimization Containerization
+Parallel Processing Sharding If you can dream it, you can do it. UX Optimization Code Review Big Data Scalability Success is how high you bounce when you hit bottom. Dream big and dare to fail. API Gateway Event Sourcing Replica Set JWT
