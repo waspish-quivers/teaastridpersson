@@ -15,3 +15,4 @@ Replica Set CI/CD Container Orchestration Big Data Cloud Load Testing GraphQL Mi
 Backend Cache Invalidation API Load Balancing Machine Learning Scalability Success usually comes to those who are too busy to be looking for it.
 Load Balancing Python RabbitMQ UX Optimization API
 Performance Firewalls Success is how high you bounce when you hit bottom. Frontend Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Code Review Event Sourcing API Load Balancing Docker
+Dream big and dare to fail. Success is how high you bounce when you hit bottom. Big Data Server Response Multi-threading Event Sourcing Serverless Load Balancing Latency Optimization Containerization
