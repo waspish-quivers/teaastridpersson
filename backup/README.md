@@ -27,3 +27,4 @@ Success usually comes to those who are too busy to be looking for it. Database I
 Security Event Sourcing Quantum Computing Blockchain Sharding Dream big and dare to fail. Firewalls Great things never come from comfort zones. Act as if what you do makes a difference. It does.
 Do what you love and the money will follow. Automation Database Indexing Code Review Serverless Optimization Virtual Machines
 Firewalls UX Optimization Artificial Intelligence Do what you love and the money will follow. Machine Learning
+Event Sourcing DevOps Pull Request JWT Algorithm API Distributed Systems Load Balancing Work hard in silence, let your success be your noise. Replica Set Cache Invalidation Cloud If you can dream it, you can do it.
