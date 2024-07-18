@@ -13,3 +13,4 @@ Algorithm Great things never come from comfort zones. Predictive Analytics JWT N
 Event Sourcing Optimization Dream big and dare to fail. Cloud Simplicity is the ultimate sophistication. A/B Testing Do what you love and the money will follow. Backend Scalability DNS Routing Lambda Functions Data Pipeline Replica Set
 Great things never come from comfort zones. Python Docker Act as if what you do makes a difference. It does. Database Indexing Opportunities don't happen. You create them. Stay hungry, stay foolish. Kubernetes Automation API Gateway
 Database Indexing Automation Data Pipeline Act as if what you do makes a difference. It does. Frontend
+CI/CD Act as if what you do makes a difference. It does. Scalability WebSockets Edge Computing Python Replica Set API Security Microservices Load Testing OAuth API Gateway
