@@ -17,3 +17,4 @@ DNS Routing Cache Invalidation Zero Downtime Deployment Cloud Functions Deployme
 Kubernetes Cloud Functions Message Queue Artificial Intelligence I find that the harder I work, the more luck I seem to have.
 Deployment Data Science Edge Computing Backend Database Neural Networks Performance NLP Zero Downtime Deployment Do what you love and the money will follow. RabbitMQ DevOps Act as if what you do makes a difference. It does.
 Scalability React Framework Database Indexing Pull Request Agile JWT UX Optimization Message Queue
+Cache Invalidation Load Balancing Event Sourcing Pull Request Neural Networks Data Pipeline IoT Don't be afraid to give up the good to go for the great. React Multi-threading Microservices Version Control Performance
