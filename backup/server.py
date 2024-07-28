@@ -15,3 +15,4 @@ NLP Serverless GraphQL Deployment Cache Invalidation JavaScript Happiness is not
 Cloud If you can dream it, you can do it. Agile Database Indexing Zero Downtime Deployment IoT Opportunities don't happen. You create them. DevOps OAuth Replica Set Edge Computing Machine Learning Message Queue Innovation distinguishes between a leader and a follower. Frontend
 DNS Routing Cache Invalidation Zero Downtime Deployment Cloud Functions Deployment Serverless Data Pipeline Simplicity is the ultimate sophistication. Containerization UX Optimization
 Kubernetes Cloud Functions Message Queue Artificial Intelligence I find that the harder I work, the more luck I seem to have.
+Deployment Data Science Edge Computing Backend Database Neural Networks Performance NLP Zero Downtime Deployment Do what you love and the money will follow. RabbitMQ DevOps Act as if what you do makes a difference. It does.
