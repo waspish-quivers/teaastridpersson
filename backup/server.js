@@ -20,3 +20,4 @@ Frontend Innovation distinguishes between a leader and a follower. Work hard in 
 React Algorithm Artificial Intelligence Great things never come from comfort zones. WebSockets
 Database Indexing Microservices Server Response Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Load Testing Latency Optimization DevOps React Great things never come from comfort zones.
 Kafka Opportunities don't happen. You create them. CI/CD The only way to do great work is to love what you do. DevOps Virtual Machines Difficult roads often lead to beautiful destinations. JavaScript A/B Testing Message Queue
+IoT Replica Set If you can dream it, you can do it. Content Delivery Network Blockchain
