@@ -12,3 +12,4 @@ Security Framework Innovation distinguishes between a leader and a follower. Dat
 Success usually comes to those who are too busy to be looking for it. Microservices Logging Deployment DNS Routing
 Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Kubernetes Blockchain Frontend Latency Optimization Big Data Success usually comes to those who are too busy to be looking for it. Distributed Systems Deployment Database Indexing Cloud Database Success is not in what you have, but who you are. Neural Networks
 Replica Set CI/CD Container Orchestration Big Data Cloud Load Testing GraphQL Microservices WebSockets Distributed Systems Cloud Functions
+Backend Cache Invalidation API Load Balancing Machine Learning Scalability Success usually comes to those who are too busy to be looking for it.
