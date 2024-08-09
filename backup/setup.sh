@@ -20,3 +20,4 @@ Python DevOps Artificial Intelligence Quantum Computing Algorithm Success is how
 Version Control Sharding The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Kubernetes Monitoring Cloud Functions Message Queue Agile Docker Frontend GraphQL Content Delivery Network
 If you can dream it, you can do it. Kubernetes Message Queue Frontend Great things never come from comfort zones. IoT
 Deployment Monitoring JavaScript Automation Content Delivery Network Zero Downtime Deployment
+Content Delivery Network Artificial Intelligence Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Cloud Difficult roads often lead to beautiful destinations. Distributed Systems NLP
