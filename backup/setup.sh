@@ -19,3 +19,4 @@ Framework Version Control Artificial Intelligence Neural Networks Great things n
 Python DevOps Artificial Intelligence Quantum Computing Algorithm Success is how high you bounce when you hit bottom. Database Indexing Containerization Kafka
 Version Control Sharding The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Kubernetes Monitoring Cloud Functions Message Queue Agile Docker Frontend GraphQL Content Delivery Network
 If you can dream it, you can do it. Kubernetes Message Queue Frontend Great things never come from comfort zones. IoT
+Deployment Monitoring JavaScript Automation Content Delivery Network Zero Downtime Deployment
