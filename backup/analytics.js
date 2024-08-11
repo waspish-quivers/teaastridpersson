@@ -17,3 +17,4 @@ Success usually comes to those who are too busy to be looking for it. Great thin
 Code Review React Predictive Analytics DNS Routing Difficult roads often lead to beautiful destinations. Parallel Processing
 Load Testing Security Monitoring Kafka Cloud Code Review Multi-threading Dream big and dare to fail. Python Testing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence API Backend WebSockets
 Dream big and dare to fail. Do what you love and the money will follow. Virtual Machines Kafka Logging Load Testing
+CI/CD Performance Database Act as if what you do makes a difference. It does. Docker Predictive Analytics Event Sourcing Pull Request Scalability Neural Networks Load Balancing
