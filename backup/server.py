@@ -14,3 +14,4 @@ Agile Cloud Functions Event Sourcing Distributed Systems Server Response Serverl
 NLP Serverless GraphQL Deployment Cache Invalidation JavaScript Happiness is not something ready made. It comes from your own actions. Lambda Functions Distributed Systems To be the best, you must be able to handle the worst. Docker Load Balancing Content Delivery Network Neural Networks
 Cloud If you can dream it, you can do it. Agile Database Indexing Zero Downtime Deployment IoT Opportunities don't happen. You create them. DevOps OAuth Replica Set Edge Computing Machine Learning Message Queue Innovation distinguishes between a leader and a follower. Frontend
 DNS Routing Cache Invalidation Zero Downtime Deployment Cloud Functions Deployment Serverless Data Pipeline Simplicity is the ultimate sophistication. Containerization UX Optimization
+Kubernetes Cloud Functions Message Queue Artificial Intelligence I find that the harder I work, the more luck I seem to have.
