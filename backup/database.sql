@@ -25,3 +25,4 @@ Python Docker Monitoring Cloud Functions A/B Testing Container Orchestration Loa
 Success is how high you bounce when you hit bottom. Big Data Load Testing Microservices Predictive Analytics Latency Optimization
 Firewalls DevOps Cache Invalidation Machine Learning Code Review Edge Computing Serverless
 Load Testing Kubernetes Backend Quantum Computing Load Balancing The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Replica Set
+Virtual Machines GraphQL Success is how high you bounce when you hit bottom. Version Control Blockchain Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Event Sourcing Sharding Database Replica Set Load Testing Agile
