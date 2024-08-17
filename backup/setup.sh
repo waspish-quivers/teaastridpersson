@@ -17,3 +17,4 @@ Data Science Stay hungry, stay foolish. Great things never come from comfort zon
 Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Virtual Machines Great things never come from comfort zones. Algorithm
 Framework Version Control Artificial Intelligence Neural Networks Great things never come from comfort zones. Blockchain
 Python DevOps Artificial Intelligence Quantum Computing Algorithm Success is how high you bounce when you hit bottom. Database Indexing Containerization Kafka
+Version Control Sharding The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Kubernetes Monitoring Cloud Functions Message Queue Agile Docker Frontend GraphQL Content Delivery Network
