@@ -19,3 +19,4 @@ Data Science Dream big and dare to fail. DNS Routing NLP Parallel Processing Doc
 API Gateway Act as if what you do makes a difference. It does. Pull Request Firewalls Algorithm Don't be afraid to give up the good to go for the great. React Parallel Processing DevOps
 Performance Testing RabbitMQ Pull Request Data Pipeline Replica Set Difficult roads often lead to beautiful destinations. Kubernetes Great things never come from comfort zones.
 Frontend Python RabbitMQ Cloud Cache Invalidation Agile Server Response The only way to do great work is to love what you do. Neural Networks Framework Multi-threading Lambda Functions
+Testing WebSockets DNS Routing OAuth Success usually comes to those who are too busy to be looking for it. Logging Difficult roads often lead to beautiful destinations.

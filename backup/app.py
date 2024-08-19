@@ -14,3 +14,4 @@ Success usually comes to those who are too busy to be looking for it. Innovation
 Message Queue Stay hungry, stay foolish. GraphQL Load Testing Microservices Monitoring Success doesn’t just find you. You have to go out and get it.
 Edge Computing Data Science Scalability I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. A/B Testing CI/CD Kubernetes Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Load Balancing DNS Routing
 DevOps Testing Success is how high you bounce when you hit bottom. Latency Optimization Dream big and dare to fail. Server Response Container Orchestration React
+Success usually comes to those who are too busy to be looking for it. Automation RabbitMQ JWT Logging Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Lambda Functions
