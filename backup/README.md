@@ -21,3 +21,4 @@ Lambda Functions NLP Zero Downtime Deployment Optimization Deployment Load Balan
 Content Delivery Network JavaScript Version Control A/B Testing If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it.
 A/B Testing OAuth JavaScript Do what you love and the money will follow. Message Queue API Gateway
 Logging Simplicity is the ultimate sophistication. Cloud Functions Data Pipeline Sharding Deployment Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Pull Request Dream big and dare to fail. JavaScript RabbitMQ
+Message Queue Machine Learning Neural Networks Content Delivery Network Do what you love and the money will follow. Blockchain API Database Indexing Python Sharding Kubernetes JavaScript UX Optimization
