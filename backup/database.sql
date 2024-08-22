@@ -23,3 +23,4 @@ Kubernetes API Gateway Logging The only way to do great work is to love what you
 Database Indexing NLP Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Predictive Analytics Distributed Systems Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Framework Version Control
 Python Docker Monitoring Cloud Functions A/B Testing Container Orchestration Load Balancing Opportunities don't happen. You create them. WebSockets
 Success is how high you bounce when you hit bottom. Big Data Load Testing Microservices Predictive Analytics Latency Optimization
+Firewalls DevOps Cache Invalidation Machine Learning Code Review Edge Computing Serverless
