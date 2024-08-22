@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. Deployment If you can dream it
 Success is how high you bounce when you hit bottom. Sharding Success is not in what you have, but who you are. RabbitMQ JWT If you can dream it, you can do it. Security
 Firewalls Optimization Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Serverless Testing Server Response Distributed Systems Containerization Deployment
 Monitoring Virtual Machines If you can dream it, you can do it. Database Testing Cloud Quantum Computing Multi-threading
+Big Data Replica Set Work hard in silence, let your success be your noise. Kubernetes Python Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it.

@@ -16,3 +16,4 @@ Success is how high you bounce when you hit bottom. React Act as if what you do 
 Data Science Stay hungry, stay foolish. Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Database Indexing
 Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Virtual Machines Great things never come from comfort zones. Algorithm
 Framework Version Control Artificial Intelligence Neural Networks Great things never come from comfort zones. Blockchain
+Python DevOps Artificial Intelligence Quantum Computing Algorithm Success is how high you bounce when you hit bottom. Database Indexing Containerization Kafka
