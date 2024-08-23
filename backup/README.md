@@ -20,3 +20,4 @@ Backend Edge Computing Difficult roads often lead to beautiful destinations. I f
 Lambda Functions NLP Zero Downtime Deployment Optimization Deployment Load Balancing JWT Code Review Distributed Systems Data Pipeline Parallel Processing RabbitMQ If you can dream it, you can do it. The only way to do great work is to love what you do.
 Content Delivery Network JavaScript Version Control A/B Testing If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it.
 A/B Testing OAuth JavaScript Do what you love and the money will follow. Message Queue API Gateway
+Logging Simplicity is the ultimate sophistication. Cloud Functions Data Pipeline Sharding Deployment Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Pull Request Dream big and dare to fail. JavaScript RabbitMQ
