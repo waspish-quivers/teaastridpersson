@@ -16,3 +16,4 @@ Logging Simplicity is the ultimate sophistication. Algorithm Optimization Server
 Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Artificial Intelligence Database Indexing Version Control Success is not in what you have, but who you are. Edge Computing DNS Routing Cloud Functions Zero Downtime Deployment Content Delivery Network Data Pipeline Database
 Code Review React Predictive Analytics DNS Routing Difficult roads often lead to beautiful destinations. Parallel Processing
 Load Testing Security Monitoring Kafka Cloud Code Review Multi-threading Dream big and dare to fail. Python Testing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence API Backend WebSockets
+Dream big and dare to fail. Do what you love and the money will follow. Virtual Machines Kafka Logging Load Testing
