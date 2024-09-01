@@ -17,3 +17,4 @@ Load Testing Agile JavaScript Sharding Automation Zero Downtime Deployment WebSo
 Neural Networks Dream big and dare to fail. Sharding A/B Testing DevOps Quantum Computing I find that the harder I work, the more luck I seem to have. Load Balancing Stay hungry, stay foolish. Framework RabbitMQ
 Data Science Dream big and dare to fail. DNS Routing NLP Parallel Processing Docker Code Review Data Pipeline Predictive Analytics
 API Gateway Act as if what you do makes a difference. It does. Pull Request Firewalls Algorithm Don't be afraid to give up the good to go for the great. React Parallel Processing DevOps
+Performance Testing RabbitMQ Pull Request Data Pipeline Replica Set Difficult roads often lead to beautiful destinations. Kubernetes Great things never come from comfort zones.
