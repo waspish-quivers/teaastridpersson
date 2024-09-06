@@ -10,3 +10,4 @@ Event Sourcing NLP Serverless I find that the harder I work, the more luck I see
 Great things never come from comfort zones. Microservices Version Control Backend If you can dream it, you can do it. Testing GraphQL
 GraphQL IoT Data Pipeline Predictive Analytics Firewalls Serverless Logging RabbitMQ Load Balancing Server Response Code Review CI/CD Frontend Success usually comes to those who are too busy to be looking for it. Quantum Computing
 Backend Deployment Frontend Docker Scalability Big Data JavaScript React Optimization I find that the harder I work, the more luck I seem to have. UX Optimization Replica Set Python Parallel Processing Don't be afraid to give up the good to go for the great.
+Microservices Cloud Functions Success usually comes to those who are too busy to be looking for it. Blockchain Don't be afraid to give up the good to go for the great. DevOps Agile
