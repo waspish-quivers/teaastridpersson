@@ -19,3 +19,4 @@ Cloud NLP Load Balancing Optimization Machine Learning Data Pipeline DevOps Cont
 Work hard in silence, let your success be your noise. Optimization Agile Algorithm IoT Big Data API Gateway Distributed Systems Quantum Computing Backend
 Cloud Functions API Success doesn’t just find you. You have to go out and get it. API Gateway Python Parallel Processing Pull Request Monitoring Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Deployment Neural Networks Kubernetes Database
 Neural Networks Dream big and dare to fail. React If you can dream it, you can do it. Cloud Frontend Don't be afraid to give up the good to go for the great. Sharding
+DevOps Parallel Processing Database Edge Computing Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. UX Optimization Data Science Cloud Functions Lambda Functions
