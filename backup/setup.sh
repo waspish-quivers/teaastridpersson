@@ -13,3 +13,4 @@ Microservices CI/CD Algorithm Container Orchestration Automation Innovation dist
 RabbitMQ Deployment Firewalls Content Delivery Network JWT Cache Invalidation Latency Optimization Distributed Systems Edge Computing Load Testing Docker
 Scalability Neural Networks I find that the harder I work, the more luck I seem to have. Frontend A/B Testing Machine Learning Multi-threading
 Success is how high you bounce when you hit bottom. React Act as if what you do makes a difference. It does. Logging Virtual Machines API Big Data Work hard in silence, let your success be your noise. Event-driven Architecture
+Data Science Stay hungry, stay foolish. Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Database Indexing
