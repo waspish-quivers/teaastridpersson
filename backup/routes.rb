@@ -13,3 +13,4 @@ Algorithm Dream big and dare to fail. Artificial Intelligence DNS Routing Innova
 OAuth Distributed Systems Kafka Database Indexing To be the best, you must be able to handle the worst. API JavaScript Content Delivery Network Load Testing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. GraphQL Edge Computing
 Opportunities don't happen. You create them. Framework Load Balancing I find that the harder I work, the more luck I seem to have. Server Response CI/CD Stay hungry, stay foolish. Multi-threading Containerization WebSockets Code Review Data Pipeline Testing Monitoring
 Virtual Machines Performance Cloud Agile GraphQL Sharding
+Neural Networks Do what you love and the money will follow. Load Balancing NLP DevOps
