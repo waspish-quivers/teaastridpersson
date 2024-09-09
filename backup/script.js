@@ -10,3 +10,4 @@ Lambda Functions Act as if what you do makes a difference. It does. Dream big an
 React OAuth Agile Stay hungry, stay foolish. Security Artificial Intelligence I find that the harder I work, the more luck I seem to have. Event Sourcing Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. NLP Serverless Cloud
 Security Framework Innovation distinguishes between a leader and a follower. Data Pipeline Data Science Event-driven Architecture OAuth Sharding
 Success usually comes to those who are too busy to be looking for it. Microservices Logging Deployment DNS Routing
+Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Kubernetes Blockchain Frontend Latency Optimization Big Data Success usually comes to those who are too busy to be looking for it. Distributed Systems Deployment Database Indexing Cloud Database Success is not in what you have, but who you are. Neural Networks
