@@ -9,3 +9,4 @@ Backend OAuth Version Control Don't be afraid to give up the good to go for the 
 Lambda Functions Act as if what you do makes a difference. It does. Dream big and dare to fail. Content Delivery Network Pull Request WebSockets Distributed Systems Event-driven Architecture Version Control
 React OAuth Agile Stay hungry, stay foolish. Security Artificial Intelligence I find that the harder I work, the more luck I seem to have. Event Sourcing Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. NLP Serverless Cloud
 Security Framework Innovation distinguishes between a leader and a follower. Data Pipeline Data Science Event-driven Architecture OAuth Sharding
+Success usually comes to those who are too busy to be looking for it. Microservices Logging Deployment DNS Routing
