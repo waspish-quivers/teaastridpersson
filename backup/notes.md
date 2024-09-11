@@ -13,3 +13,4 @@ Opportunities don't happen. You create them. If you can dream it, you can do it.
 Event Sourcing Kubernetes Kafka Data Science Server Response To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Cloud Code Review A/B Testing Blockchain Predictive Analytics Python Dream big and dare to fail. Version Control
 Kafka Cloud Code Review Security Do what you love and the money will follow. Cloud Functions Frontend Monitoring If you can dream it, you can do it. Server Response
 Database Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Serverless Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Replica Set Great things never come from comfort zones.
+Load Testing Agile JavaScript Sharding Automation Zero Downtime Deployment WebSockets
