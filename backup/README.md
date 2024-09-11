@@ -18,3 +18,4 @@ OAuth Predictive Analytics Stay hungry, stay foolish. Act as if what you do make
 Serverless Database DNS Routing Message Queue Lambda Functions Event-driven Architecture Quantum Computing Event Sourcing API Docker Cloud Functions
 Backend Edge Computing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Optimization Containerization Automation Success is how high you bounce when you hit bottom.
 Lambda Functions NLP Zero Downtime Deployment Optimization Deployment Load Balancing JWT Code Review Distributed Systems Data Pipeline Parallel Processing RabbitMQ If you can dream it, you can do it. The only way to do great work is to love what you do.
+Content Delivery Network JavaScript Version Control A/B Testing If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it.

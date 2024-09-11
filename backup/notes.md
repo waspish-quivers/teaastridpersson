@@ -14,3 +14,4 @@ Event Sourcing Kubernetes Kafka Data Science Server Response To be the best, you
 Kafka Cloud Code Review Security Do what you love and the money will follow. Cloud Functions Frontend Monitoring If you can dream it, you can do it. Server Response
 Database Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Serverless Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Replica Set Great things never come from comfort zones.
 Load Testing Agile JavaScript Sharding Automation Zero Downtime Deployment WebSockets
+Neural Networks Dream big and dare to fail. Sharding A/B Testing DevOps Quantum Computing I find that the harder I work, the more luck I seem to have. Load Balancing Stay hungry, stay foolish. Framework RabbitMQ
