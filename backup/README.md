@@ -17,3 +17,4 @@ Content Delivery Network Framework Success is how high you bounce when you hit b
 OAuth Predictive Analytics Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Dream big and dare to fail. Algorithm Database CI/CD Cache Invalidation Server Response Message Queue Data Pipeline Deployment
 Serverless Database DNS Routing Message Queue Lambda Functions Event-driven Architecture Quantum Computing Event Sourcing API Docker Cloud Functions
 Backend Edge Computing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Optimization Containerization Automation Success is how high you bounce when you hit bottom.
+Lambda Functions NLP Zero Downtime Deployment Optimization Deployment Load Balancing JWT Code Review Distributed Systems Data Pipeline Parallel Processing RabbitMQ If you can dream it, you can do it. The only way to do great work is to love what you do.
