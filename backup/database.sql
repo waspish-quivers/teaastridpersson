@@ -19,3 +19,4 @@ Distributed Systems API Gateway Serverless DNS Routing OAuth Blockchain Pull Req
 Neural Networks Python Stay hungry, stay foolish. Act as if what you do makes a difference. It does. CI/CD Machine Learning UX Optimization
 Success usually comes to those who are too busy to be looking for it. Replica Set Multi-threading Code Review Dream big and dare to fail. Virtual Machines
 Framework Machine Learning Edge Computing I find that the harder I work, the more luck I seem to have. JWT Code Review Content Delivery Network Database Message Queue CI/CD Virtual Machines Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Database Indexing
+Kubernetes API Gateway Logging The only way to do great work is to love what you do. Parallel Processing Framework A/B Testing I find that the harder I work, the more luck I seem to have. Data Pipeline Deployment Event-driven Architecture Neural Networks Sharding
