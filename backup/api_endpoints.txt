@@ -18,3 +18,4 @@ Backend Frontend Simplicity is the ultimate sophistication. Python Docker Distri
 Blockchain Security Kubernetes Simplicity is the ultimate sophistication. Optimization Logging Firewalls IoT Multi-threading Cloud Functions Kafka
 Edge Computing Happiness is not something ready made. It comes from your own actions. Algorithm Replica Set Cache Invalidation Parallel Processing RabbitMQ Message Queue Success is how high you bounce when you hit bottom. Virtual Machines Multi-threading To be the best, you must be able to handle the worst. Frontend DevOps
 A/B Testing Frontend Firewalls JWT Sharding Cloud Functions
+Predictive Analytics Event Sourcing JavaScript Code Review Work hard in silence, let your success be your noise. Agile Kubernetes Microservices Backend Cache Invalidation IoT Monitoring API Replica Set Firewalls

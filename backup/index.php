@@ -8,3 +8,4 @@ Microservices Replica Set A/B Testing Backend Big Data
 Zero Downtime Deployment Database Indexing Latency Optimization Neural Networks Database If you can dream it, you can do it. NLP
 Event Sourcing NLP Serverless I find that the harder I work, the more luck I seem to have. API Virtual Machines Containerization Replica Set Cache Invalidation IoT
 Great things never come from comfort zones. Microservices Version Control Backend If you can dream it, you can do it. Testing GraphQL
+GraphQL IoT Data Pipeline Predictive Analytics Firewalls Serverless Logging RabbitMQ Load Balancing Server Response Code Review CI/CD Frontend Success usually comes to those who are too busy to be looking for it. Quantum Computing
