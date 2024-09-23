@@ -18,3 +18,4 @@ Do what you love and the money will follow. Container Orchestration Quantum Comp
 Distributed Systems API Gateway Serverless DNS Routing OAuth Blockchain Pull Request Automation Dream big and dare to fail. Database Work hard in silence, let your success be your noise.
 Neural Networks Python Stay hungry, stay foolish. Act as if what you do makes a difference. It does. CI/CD Machine Learning UX Optimization
 Success usually comes to those who are too busy to be looking for it. Replica Set Multi-threading Code Review Dream big and dare to fail. Virtual Machines
+Framework Machine Learning Edge Computing I find that the harder I work, the more luck I seem to have. JWT Code Review Content Delivery Network Database Message Queue CI/CD Virtual Machines Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Database Indexing
