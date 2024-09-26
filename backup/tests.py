@@ -22,3 +22,4 @@ CI/CD WebSockets The only way to do great work is to love what you do. Cloud Fun
 Logging Content Delivery Network Automation Scalability Parallel Processing Cloud Functions Serverless API Pull Request Data Science Distributed Systems
 Algorithm CI/CD API Gateway Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. A/B Testing
 Database Indexing Big Data Simplicity is the ultimate sophistication. Predictive Analytics Do what you love and the money will follow. Replica Set Testing Python Virtual Machines A/B Testing Data Science
+Logging CI/CD Serverless Performance React Act as if what you do makes a difference. It does. GraphQL OAuth I find that the harder I work, the more luck I seem to have. DevOps Don't be afraid to give up the good to go for the great.
