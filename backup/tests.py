@@ -21,3 +21,4 @@ Success is not in what you have, but who you are. Algorithm Success doesn’t just
 CI/CD WebSockets The only way to do great work is to love what you do. Cloud Functions Virtual Machines Backend Event Sourcing Testing Cache Invalidation API Gateway JavaScript Success is not in what you have, but who you are. Do what you love and the money will follow. React
 Logging Content Delivery Network Automation Scalability Parallel Processing Cloud Functions Serverless API Pull Request Data Science Distributed Systems
 Algorithm CI/CD API Gateway Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. A/B Testing
+Database Indexing Big Data Simplicity is the ultimate sophistication. Predictive Analytics Do what you love and the money will follow. Replica Set Testing Python Virtual Machines A/B Testing Data Science
