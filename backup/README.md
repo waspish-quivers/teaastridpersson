@@ -16,3 +16,4 @@ Parallel Processing Containerization Zero Downtime Deployment Success doesn’t ju
 Content Delivery Network Framework Success is how high you bounce when you hit bottom. Neural Networks Data Science Sharding Load Testing Event-driven Architecture
 OAuth Predictive Analytics Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Dream big and dare to fail. Algorithm Database CI/CD Cache Invalidation Server Response Message Queue Data Pipeline Deployment
 Serverless Database DNS Routing Message Queue Lambda Functions Event-driven Architecture Quantum Computing Event Sourcing API Docker Cloud Functions
+Backend Edge Computing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Optimization Containerization Automation Success is how high you bounce when you hit bottom.
