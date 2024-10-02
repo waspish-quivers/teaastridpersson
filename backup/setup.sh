@@ -11,3 +11,4 @@ RabbitMQ Cloud Sharding Virtual Machines Latency Optimization Security Neural Ne
 Microservices Zero Downtime Deployment Python Serverless Success usually comes to those who are too busy to be looking for it. JavaScript Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Artificial Intelligence Big Data RabbitMQ
 Microservices CI/CD Algorithm Container Orchestration Automation Innovation distinguishes between a leader and a follower. Frontend
 RabbitMQ Deployment Firewalls Content Delivery Network JWT Cache Invalidation Latency Optimization Distributed Systems Edge Computing Load Testing Docker
+Scalability Neural Networks I find that the harder I work, the more luck I seem to have. Frontend A/B Testing Machine Learning Multi-threading
