@@ -16,3 +16,4 @@ The only way to do great work is to love what you do. NLP Sharding Data Pipeline
 Parallel Processing JWT Work hard in silence, let your success be your noise. API Pull Request Load Testing CI/CD Serverless
 Do what you love and the money will follow. Container Orchestration Quantum Computing API Gateway Automation WebSockets Success is not in what you have, but who you are. Code Review Cloud A/B Testing
 Distributed Systems API Gateway Serverless DNS Routing OAuth Blockchain Pull Request Automation Dream big and dare to fail. Database Work hard in silence, let your success be your noise.
+Neural Networks Python Stay hungry, stay foolish. Act as if what you do makes a difference. It does. CI/CD Machine Learning UX Optimization
