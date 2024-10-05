@@ -12,3 +12,4 @@ Container Orchestration Great things never come from comfort zones. A/B Testing 
 Zero Downtime Deployment DNS Routing DevOps Work hard in silence, let your success be your noise. Neural Networks Serverless Code Review
 API RabbitMQ Python Replica Set I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Performance Backend Lambda Functions Kubernetes Database Frontend Cache Invalidation Quantum Computing
 Python Opportunities don't happen. You create them. If you can dream it, you can do it. Container Orchestration UX Optimization Success doesn’t just find you. You have to go out and get it.
+Logging Simplicity is the ultimate sophistication. Algorithm Optimization Serverless Frontend Latency Optimization To be the best, you must be able to handle the worst. Kubernetes Content Delivery Network Automation Cache Invalidation RabbitMQ DevOps JavaScript

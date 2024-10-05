@@ -16,3 +16,4 @@ Difficult roads often lead to beautiful destinations. Blockchain Artificial Inte
 Happiness is not something ready made. It comes from your own actions. IoT Microservices Automation React Multi-threading Edge Computing Opportunities don't happen. You create them. JWT Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do.
 JWT Testing Big Data IoT Database Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Load Balancing RabbitMQ Lambda Functions Code Review Message Queue Scalability NLP
 Cloud NLP Load Balancing Optimization Machine Learning Data Pipeline DevOps Content Delivery Network
+Work hard in silence, let your success be your noise. Optimization Agile Algorithm IoT Big Data API Gateway Distributed Systems Quantum Computing Backend
