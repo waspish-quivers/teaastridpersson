@@ -14,3 +14,4 @@ I find that the harder I work, the more luck I seem to have. Success is how high
 Kubernetes Lambda Functions Edge Computing Cache Invalidation API Gateway
 The only way to do great work is to love what you do. NLP Sharding Data Pipeline Framework Data Science Multi-threading Performance Kafka Work hard in silence, let your success be your noise.
 Parallel Processing JWT Work hard in silence, let your success be your noise. API Pull Request Load Testing CI/CD Serverless
+Do what you love and the money will follow. Container Orchestration Quantum Computing API Gateway Automation WebSockets Success is not in what you have, but who you are. Code Review Cloud A/B Testing
