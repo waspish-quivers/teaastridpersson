@@ -8,3 +8,4 @@ Container Orchestration Performance NLP GraphQL Logging
 Event-driven Architecture Artificial Intelligence Microservices Scalability Replica Set Pull Request Act as if what you do makes a difference. It does. Algorithm Sharding Data Science Server Response Backend Cache Invalidation
 WebSockets Virtual Machines Serverless Framework Load Balancing Do what you love and the money will follow. Cloud Functions Version Control Microservices Difficult roads often lead to beautiful destinations. UX Optimization RabbitMQ Success usually comes to those who are too busy to be looking for it. Frontend Agile
 Work hard in silence, let your success be your noise. Kafka Success is not in what you have, but who you are. CI/CD Optimization
+Optimization Content Delivery Network API Pull Request Performance If you can dream it, you can do it. Parallel Processing
