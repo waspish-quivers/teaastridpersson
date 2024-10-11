@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Cache Invalidation Cloud Functions 
 API DNS Routing CI/CD Zero Downtime Deployment Predictive Analytics Load Balancing Don't be afraid to give up the good to go for the great. NLP Sharding
 UX Optimization If you can dream it, you can do it. Cache Invalidation Cloud Quantum Computing Success is how high you bounce when you hit bottom. Logging Testing
 If you can dream it, you can do it. Do what you love and the money will follow. Containerization OAuth Work hard in silence, let your success be your noise. A/B Testing API Performance Act as if what you do makes a difference. It does.
+Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. CI/CD I find that the harder I work, the more luck I seem to have. Parallel Processing Monitoring Success is how high you bounce when you hit bottom.
