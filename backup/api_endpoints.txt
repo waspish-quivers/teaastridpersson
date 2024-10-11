@@ -16,3 +16,4 @@ Server Response OAuth Sharding IoT Version Control Container Orchestration Oppor
 I find that the harder I work, the more luck I seem to have. Serverless Great things never come from comfort zones. Event Sourcing Automation Container Orchestration
 Backend Frontend Simplicity is the ultimate sophistication. Python Docker Distributed Systems Cloud
 Blockchain Security Kubernetes Simplicity is the ultimate sophistication. Optimization Logging Firewalls IoT Multi-threading Cloud Functions Kafka
+Edge Computing Happiness is not something ready made. It comes from your own actions. Algorithm Replica Set Cache Invalidation Parallel Processing RabbitMQ Message Queue Success is how high you bounce when you hit bottom. Virtual Machines Multi-threading To be the best, you must be able to handle the worst. Frontend DevOps
