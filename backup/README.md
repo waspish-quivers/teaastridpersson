@@ -15,3 +15,4 @@ Zero Downtime Deployment Cloud Do what you love and the money will follow. Data 
 Parallel Processing Containerization Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Predictive Analytics Server Response Distributed Systems
 Content Delivery Network Framework Success is how high you bounce when you hit bottom. Neural Networks Data Science Sharding Load Testing Event-driven Architecture
 OAuth Predictive Analytics Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Dream big and dare to fail. Algorithm Database CI/CD Cache Invalidation Server Response Message Queue Data Pipeline Deployment
+Serverless Database DNS Routing Message Queue Lambda Functions Event-driven Architecture Quantum Computing Event Sourcing API Docker Cloud Functions

@@ -15,3 +15,4 @@ Cloud Functions Data Pipeline Container Orchestration Microservices API Gateway 
 Server Response OAuth Sharding IoT Version Control Container Orchestration Opportunities don't happen. You create them. Cache Invalidation Scalability Quantum Computing Frontend Event-driven Architecture Message Queue Serverless
 I find that the harder I work, the more luck I seem to have. Serverless Great things never come from comfort zones. Event Sourcing Automation Container Orchestration
 Backend Frontend Simplicity is the ultimate sophistication. Python Docker Distributed Systems Cloud
+Blockchain Security Kubernetes Simplicity is the ultimate sophistication. Optimization Logging Firewalls IoT Multi-threading Cloud Functions Kafka
