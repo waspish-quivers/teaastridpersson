@@ -12,3 +12,4 @@ Multi-threading Success is how high you bounce when you hit bottom. Container Or
 Containerization Event-driven Architecture Container Orchestration Python Lambda Functions Difficult roads often lead to beautiful destinations. GraphQL UX Optimization
 I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Quantum Computing Message Queue UX Optimization Success doesn’t just find you. You have to go out and get it. Algorithm Latency Optimization Containerization API Gateway Do what you love and the money will follow. Docker Blockchain Event Sourcing Scalability
 Kubernetes Lambda Functions Edge Computing Cache Invalidation API Gateway
+The only way to do great work is to love what you do. NLP Sharding Data Pipeline Framework Data Science Multi-threading Performance Kafka Work hard in silence, let your success be your noise.

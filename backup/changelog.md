@@ -15,3 +15,4 @@ Data Science Firewalls Frontend Artificial Intelligence API Message Queue WebSoc
 Difficult roads often lead to beautiful destinations. Blockchain Artificial Intelligence Database Quantum Computing Do what you love and the money will follow. Act as if what you do makes a difference. It does. Multi-threading Edge Computing Predictive Analytics
 Happiness is not something ready made. It comes from your own actions. IoT Microservices Automation React Multi-threading Edge Computing Opportunities don't happen. You create them. JWT Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do.
 JWT Testing Big Data IoT Database Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Load Balancing RabbitMQ Lambda Functions Code Review Message Queue Scalability NLP
+Cloud NLP Load Balancing Optimization Machine Learning Data Pipeline DevOps Content Delivery Network
