@@ -7,3 +7,4 @@ Multi-threading Testing Success usually comes to those who are too busy to be lo
 Microservices Replica Set A/B Testing Backend Big Data
 Zero Downtime Deployment Database Indexing Latency Optimization Neural Networks Database If you can dream it, you can do it. NLP
 Event Sourcing NLP Serverless I find that the harder I work, the more luck I seem to have. API Virtual Machines Containerization Replica Set Cache Invalidation IoT
+Great things never come from comfort zones. Microservices Version Control Backend If you can dream it, you can do it. Testing GraphQL
