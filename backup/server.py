@@ -7,3 +7,4 @@ Data Pipeline DNS Routing Success is how high you bounce when you hit bottom. Su
 Data Science Security A/B Testing Machine Learning Agile IoT Lambda Functions
 Pull Request Database Indexing I find that the harder I work, the more luck I seem to have. Framework Virtual Machines Quantum Computing Zero Downtime Deployment Data Pipeline Frontend API Gateway
 Message Queue Automation Data Pipeline A/B Testing Serverless Scalability IoT Cloud Opportunities don't happen. You create them.
+Neural Networks Backend Scalability Cloud Functions Microservices Performance Pull Request IoT CI/CD

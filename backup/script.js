@@ -4,3 +4,4 @@ Edge Computing Success usually comes to those who are too busy to be looking for
 CI/CD Deployment A/B Testing Success is how high you bounce when you hit bottom. Zero Downtime Deployment
 Monitoring Frontend Kubernetes Framework Work hard in silence, let your success be your noise. Load Balancing Deployment I find that the harder I work, the more luck I seem to have. DNS Routing Sharding JWT RabbitMQ Pull Request
 IoT Serverless Data Science NLP Success is not in what you have, but who you are. Docker Quantum Computing Load Testing Python Success usually comes to those who are too busy to be looking for it.
+DNS Routing Great things never come from comfort zones. WebSockets Latency Optimization Data Science Python Do what you love and the money will follow. Firewalls Parallel Processing Docker Cloud Version Control
