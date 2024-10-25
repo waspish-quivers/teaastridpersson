@@ -5,3 +5,4 @@ React Success doesn’t just find you. You have to go out and get it. Parallel Pro
 Machine Learning Distributed Systems Server Response Lambda Functions Latency Optimization Framework Success doesn’t just find you. You have to go out and get it. Logging JWT CI/CD
 Data Pipeline DNS Routing Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Edge Computing Act as if what you do makes a difference. It does. CI/CD Event-driven Architecture Logging RabbitMQ I find that the harder I work, the more luck I seem to have.
 Data Science Security A/B Testing Machine Learning Agile IoT Lambda Functions
+Pull Request Database Indexing I find that the harder I work, the more luck I seem to have. Framework Virtual Machines Quantum Computing Zero Downtime Deployment Data Pipeline Frontend API Gateway
