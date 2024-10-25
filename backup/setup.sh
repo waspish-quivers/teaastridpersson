@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. API Gatewa
 Load Balancing Happiness is not something ready made. It comes from your own actions. Pull Request Optimization Success usually comes to those who are too busy to be looking for it. Quantum Computing Database Indexing UX Optimization Database Do what you love and the money will follow. CI/CD Success is how high you bounce when you hit bottom. Version Control Algorithm
 RabbitMQ Cloud Sharding Virtual Machines Latency Optimization Security Neural Networks Pull Request
 Microservices Zero Downtime Deployment Python Serverless Success usually comes to those who are too busy to be looking for it. JavaScript Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Artificial Intelligence Big Data RabbitMQ
+Microservices CI/CD Algorithm Container Orchestration Automation Innovation distinguishes between a leader and a follower. Frontend
