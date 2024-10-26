@@ -12,3 +12,4 @@ Logging Great things never come from comfort zones. Predictive Analytics Docker 
 Innovation distinguishes between a leader and a follower. Serverless Code Review Zero Downtime Deployment UX Optimization Containerization NLP Sharding Security DevOps Framework Kafka API Cloud React
 Sharding Replica Set OAuth API DevOps Optimization React IoT Difficult roads often lead to beautiful destinations.
 Cloud Functions Data Pipeline Container Orchestration Microservices API Gateway Algorithm To be the best, you must be able to handle the worst. Distributed Systems Docker Agile Success is not in what you have, but who you are. Virtual Machines Innovation distinguishes between a leader and a follower. Database Indexing JWT
+Server Response OAuth Sharding IoT Version Control Container Orchestration Opportunities don't happen. You create them. Cache Invalidation Scalability Quantum Computing Frontend Event-driven Architecture Message Queue Serverless
