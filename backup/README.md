@@ -13,3 +13,4 @@ Docker Content Delivery Network Security Latency Optimization Innovation disting
 Load Testing GraphQL Microservices Optimization UX Optimization Frontend React Great things never come from comfort zones. Work hard in silence, let your success be your noise.
 Zero Downtime Deployment Cloud Do what you love and the money will follow. Data Science Data Pipeline
 Parallel Processing Containerization Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Predictive Analytics Server Response Distributed Systems
+Content Delivery Network Framework Success is how high you bounce when you hit bottom. Neural Networks Data Science Sharding Load Testing Event-driven Architecture
