@@ -12,3 +12,4 @@ WebSockets OAuth Latency Optimization Stay hungry, stay foolish. Sharding Pull R
 Docker Content Delivery Network Security Latency Optimization Innovation distinguishes between a leader and a follower. Event-driven Architecture Pull Request React Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have.
 Load Testing GraphQL Microservices Optimization UX Optimization Frontend React Great things never come from comfort zones. Work hard in silence, let your success be your noise.
 Zero Downtime Deployment Cloud Do what you love and the money will follow. Data Science Data Pipeline
+Parallel Processing Containerization Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Predictive Analytics Server Response Distributed Systems

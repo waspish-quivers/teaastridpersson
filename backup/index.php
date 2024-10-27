@@ -5,3 +5,4 @@ Deployment API Code Review Kafka Version Control
 I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Latency Optimization A/B Testing Blockchain Kubernetes Optimization Replica Set Version Control Zero Downtime Deployment To be the best, you must be able to handle the worst.
 Multi-threading Testing Success usually comes to those who are too busy to be looking for it. Microservices DevOps
 Microservices Replica Set A/B Testing Backend Big Data
+Zero Downtime Deployment Database Indexing Latency Optimization Neural Networks Database If you can dream it, you can do it. NLP
