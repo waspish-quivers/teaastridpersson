@@ -15,3 +15,4 @@ Act as if what you do makes a difference. It does. Backend Success is not in wha
 Container Orchestration Security Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Multi-threading Kafka Don't be afraid to give up the good to go for the great. Code Review If you can dream it, you can do it.
 JavaScript UX Optimization API Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Big Data Monitoring
 Logging Kubernetes Load Balancing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst.
+Docker Server Response Agile Zero Downtime Deployment DevOps Virtual Machines Scalability Data Pipeline Success is not in what you have, but who you are. IoT Backend Work hard in silence, let your success be your noise. Framework Database
