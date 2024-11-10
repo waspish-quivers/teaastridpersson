@@ -9,3 +9,4 @@ A/B Testing Cloud Logging Opportunities don't happen. You create them. JWT Quant
 Cache Invalidation Container Orchestration Code Review Work hard in silence, let your success be your noise. Pull Request I find that the harder I work, the more luck I seem to have. Optimization Algorithm Monitoring Innovation distinguishes between a leader and a follower.
 If you can dream it, you can do it. WebSockets Difficult roads often lead to beautiful destinations. IoT Simplicity is the ultimate sophistication. Quantum Computing
 WebSockets OAuth Latency Optimization Stay hungry, stay foolish. Sharding Pull Request Containerization Microservices
+Docker Content Delivery Network Security Latency Optimization Innovation distinguishes between a leader and a follower. Event-driven Architecture Pull Request React Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have.
