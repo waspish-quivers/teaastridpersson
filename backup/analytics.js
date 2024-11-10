@@ -9,3 +9,4 @@ JWT Logging Predictive Analytics Data Science Success is how high you bounce whe
 Replica Set Big Data Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Great things never come from comfort zones. Version Control Database Kafka Artificial Intelligence Firewalls Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Load Balancing Success doesn’t just find you. You have to go out and get it.
 GraphQL Sharding Predictive Analytics NLP Testing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Database IoT
 Container Orchestration Great things never come from comfort zones. A/B Testing Distributed Systems Data Pipeline Message Queue
+Zero Downtime Deployment DNS Routing DevOps Work hard in silence, let your success be your noise. Neural Networks Serverless Code Review
