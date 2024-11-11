@@ -9,3 +9,4 @@ Artificial Intelligence Parallel Processing Replica Set Blockchain Data Pipeline
 Replica Set Great things never come from comfort zones. Frontend Dream big and dare to fail. Scalability Data Pipeline Performance Multi-threading UX Optimization React Microservices Serverless
 Containerization Container Orchestration Data Science NLP Simplicity is the ultimate sophistication. Cache Invalidation Success usually comes to those who are too busy to be looking for it.
 Multi-threading Success is how high you bounce when you hit bottom. Container Orchestration DNS Routing Zero Downtime Deployment Framework Machine Learning CI/CD Optimization Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it.
+Containerization Event-driven Architecture Container Orchestration Python Lambda Functions Difficult roads often lead to beautiful destinations. GraphQL UX Optimization
