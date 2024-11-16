@@ -12,3 +12,4 @@ The only way to do great work is to love what you do. To be the best, you must b
 Message Queue Data Science Machine Learning Containerization Security UX Optimization Backend
 Machine Learning Zero Downtime Deployment API Docker API Gateway JavaScript Optimization OAuth Big Data Do what you love and the money will follow. Scalability
 Act as if what you do makes a difference. It does. Backend Success is not in what you have, but who you are. Load Testing Server Response Performance Code Review Difficult roads often lead to beautiful destinations. GraphQL Latency Optimization Artificial Intelligence Serverless
+Container Orchestration Security Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Multi-threading Kafka Don't be afraid to give up the good to go for the great. Code Review If you can dream it, you can do it.
