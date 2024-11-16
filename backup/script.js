@@ -2,3 +2,4 @@ Machine Learning Microservices React Dream big and dare to fail. Algorithm Perfo
 UX Optimization JWT Simplicity is the ultimate sophistication. Serverless RabbitMQ Predictive Analytics Happiness is not something ready made. It comes from your own actions. Neural Networks OAuth Event Sourcing DNS Routing Great things never come from comfort zones. The only way to do great work is to love what you do. Firewalls
 Edge Computing Success usually comes to those who are too busy to be looking for it. Cache Invalidation Parallel Processing Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are.
 CI/CD Deployment A/B Testing Success is how high you bounce when you hit bottom. Zero Downtime Deployment
+Monitoring Frontend Kubernetes Framework Work hard in silence, let your success be your noise. Load Balancing Deployment I find that the harder I work, the more luck I seem to have. DNS Routing Sharding JWT RabbitMQ Pull Request
