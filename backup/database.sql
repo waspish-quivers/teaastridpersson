@@ -7,3 +7,4 @@ Do what you love and the money will follow. Server Response Microservices WebSoc
 Pull Request API Gateway Edge Computing Containerization Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Logging Virtual Machines Agile Database Indexing
 Artificial Intelligence Parallel Processing Replica Set Blockchain Data Pipeline Quantum Computing Frontend Happiness is not something ready made. It comes from your own actions. DevOps Cloud Don't be afraid to give up the good to go for the great. Content Delivery Network
 Replica Set Great things never come from comfort zones. Frontend Dream big and dare to fail. Scalability Data Pipeline Performance Multi-threading UX Optimization React Microservices Serverless
+Containerization Container Orchestration Data Science NLP Simplicity is the ultimate sophistication. Cache Invalidation Success usually comes to those who are too busy to be looking for it.
