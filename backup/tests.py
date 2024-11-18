@@ -11,3 +11,4 @@ Latency Optimization Monitoring Event-driven Architecture WebSockets Server Resp
 The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Message Queue Sharding Database Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Multi-threading
 Message Queue Data Science Machine Learning Containerization Security UX Optimization Backend
 Machine Learning Zero Downtime Deployment API Docker API Gateway JavaScript Optimization OAuth Big Data Do what you love and the money will follow. Scalability
+Act as if what you do makes a difference. It does. Backend Success is not in what you have, but who you are. Load Testing Server Response Performance Code Review Difficult roads often lead to beautiful destinations. GraphQL Latency Optimization Artificial Intelligence Serverless
