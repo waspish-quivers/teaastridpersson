@@ -10,3 +10,4 @@ NLP Event-driven Architecture Work hard in silence, let your success be your noi
 Latency Optimization Monitoring Event-driven Architecture WebSockets Server Response To be the best, you must be able to handle the worst. Load Testing Frontend Kubernetes Parallel Processing Framework DNS Routing Content Delivery Network IoT
 The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Message Queue Sharding Database Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Multi-threading
 Message Queue Data Science Machine Learning Containerization Security UX Optimization Backend
+Machine Learning Zero Downtime Deployment API Docker API Gateway JavaScript Optimization OAuth Big Data Do what you love and the money will follow. Scalability
