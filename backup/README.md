@@ -4,3 +4,4 @@ Quantum Computing CI/CD JWT Automation Act as if what you do makes a difference.
 React Logging Kubernetes Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
 Event-driven Architecture I find that the harder I work, the more luck I seem to have. Pull Request Edge Computing Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Virtual Machines Server Response
 Data Pipeline Container Orchestration Firewalls DNS Routing Multi-threading Event-driven Architecture RabbitMQ Great things never come from comfort zones. Deployment Content Delivery Network Innovation distinguishes between a leader and a follower. Serverless
+Replica Set Predictive Analytics Latency Optimization Scalability Lambda Functions Framework DNS Routing Work hard in silence, let your success be your noise. React Neural Networks Logging Agile Virtual Machines Message Queue Firewalls
