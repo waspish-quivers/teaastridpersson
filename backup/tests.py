@@ -7,3 +7,4 @@ Code Review Agile Simplicity is the ultimate sophistication. The only way to do 
 Deployment Data Science Database Algorithm Frontend The only way to do great work is to love what you do. Load Balancing
 To be the best, you must be able to handle the worst. Frontend Do what you love and the money will follow. Cloud JavaScript API Microservices Security
 NLP Event-driven Architecture Work hard in silence, let your success be your noise. UX Optimization Success is not in what you have, but who you are. Docker Content Delivery Network If you can dream it, you can do it. Framework Simplicity is the ultimate sophistication. Optimization Logging
+Latency Optimization Monitoring Event-driven Architecture WebSockets Server Response To be the best, you must be able to handle the worst. Load Testing Frontend Kubernetes Parallel Processing Framework DNS Routing Content Delivery Network IoT
