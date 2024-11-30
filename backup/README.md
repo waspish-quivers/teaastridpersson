@@ -3,3 +3,4 @@ API Gateway Distributed Systems Docker Act as if what you do makes a difference.
 Quantum Computing CI/CD JWT Automation Act as if what you do makes a difference. It does. API Gateway OAuth Sharding Success is not in what you have, but who you are. Virtual Machines
 React Logging Kubernetes Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
 Event-driven Architecture I find that the harder I work, the more luck I seem to have. Pull Request Edge Computing Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Virtual Machines Server Response
+Data Pipeline Container Orchestration Firewalls DNS Routing Multi-threading Event-driven Architecture RabbitMQ Great things never come from comfort zones. Deployment Content Delivery Network Innovation distinguishes between a leader and a follower. Serverless
