@@ -10,3 +10,4 @@ Load Balancing Python Work hard in silence, let your success be your noise. Mess
 Container Orchestration Difficult roads often lead to beautiful destinations. Lambda Functions Blockchain JWT Scalability Framework CI/CD UX Optimization Deployment Data Science
 Logging Great things never come from comfort zones. Predictive Analytics Docker Neural Networks Server Response Lambda Functions Dream big and dare to fail. Sharding Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Kubernetes Database DNS Routing Success doesn’t just find you. You have to go out and get it.
 Innovation distinguishes between a leader and a follower. Serverless Code Review Zero Downtime Deployment UX Optimization Containerization NLP Sharding Security DevOps Framework Kafka API Cloud React
+Sharding Replica Set OAuth API DevOps Optimization React IoT Difficult roads often lead to beautiful destinations.
