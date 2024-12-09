@@ -6,3 +6,4 @@ Artificial Intelligence Machine Learning Success is not in what you have, but wh
 OAuth Event-driven Architecture Big Data Opportunities don't happen. You create them. Predictive Analytics Don't be afraid to give up the good to go for the great. Microservices NLP Server Response
 Server Response Container Orchestration Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Cloud JavaScript DevOps OAuth
 Success is not in what you have, but who you are. Microservices Backend Code Review Work hard in silence, let your success be your noise. Replica Set Big Data Data Science WebSockets The only way to do great work is to love what you do. Event-driven Architecture
+Message Queue API Gateway Performance Framework Docker Optimization Artificial Intelligence Content Delivery Network Microservices Stay hungry, stay foolish. Cloud Functions Server Response

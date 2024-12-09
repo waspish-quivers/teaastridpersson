@@ -5,3 +5,4 @@ Security API Predictive Analytics Stay hungry, stay foolish. Deployment Do what 
 Cache Invalidation Act as if what you do makes a difference. It does. API Gateway Dream big and dare to fail. API Performance DNS Routing Distributed Systems To be the best, you must be able to handle the worst. Backend
 Code Review Agile Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Load Testing Monitoring DNS Routing Testing WebSockets
 Deployment Data Science Database Algorithm Frontend The only way to do great work is to love what you do. Load Balancing
+To be the best, you must be able to handle the worst. Frontend Do what you love and the money will follow. Cloud JavaScript API Microservices Security
