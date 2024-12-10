@@ -6,3 +6,4 @@ Algorithm Cloud Code Review Do what you love and the money will follow. DevOps
 Do what you love and the money will follow. Server Response Microservices WebSockets Deployment Parallel Processing Docker Edge Computing Container Orchestration Optimization
 Pull Request API Gateway Edge Computing Containerization Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Logging Virtual Machines Agile Database Indexing
 Artificial Intelligence Parallel Processing Replica Set Blockchain Data Pipeline Quantum Computing Frontend Happiness is not something ready made. It comes from your own actions. DevOps Cloud Don't be afraid to give up the good to go for the great. Content Delivery Network
+Replica Set Great things never come from comfort zones. Frontend Dream big and dare to fail. Scalability Data Pipeline Performance Multi-threading UX Optimization React Microservices Serverless
