@@ -9,3 +9,4 @@ Python Difficult roads often lead to beautiful destinations. GraphQL Simplicity 
 Parallel Processing JavaScript Great things never come from comfort zones. Artificial Intelligence Deployment Server Response
 To be the best, you must be able to handle the worst. DevOps Algorithm Success is how high you bounce when you hit bottom. Load Testing Container Orchestration UX Optimization Pull Request Data Science
 Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Pull Request Event-driven Architecture If you can dream it, you can do it.
+JWT Containerization If you can dream it, you can do it. NLP Framework Agile Predictive Analytics Database Cache Invalidation Dream big and dare to fail. Latency Optimization
