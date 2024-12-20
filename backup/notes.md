@@ -4,3 +4,4 @@ CI/CD Database Framework I find that the harder I work, the more luck I seem to 
 Code Review Monitoring Performance Kubernetes Event Sourcing Success doesn’t just find you. You have to go out and get it. Sharding DevOps The only way to do great work is to love what you do. Parallel Processing
 Artificial Intelligence Machine Learning Success is not in what you have, but who you are. Big Data Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Agile I find that the harder I work, the more luck I seem to have. Quantum Computing Lambda Functions DNS Routing
 OAuth Event-driven Architecture Big Data Opportunities don't happen. You create them. Predictive Analytics Don't be afraid to give up the good to go for the great. Microservices NLP Server Response
+Server Response Container Orchestration Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Cloud JavaScript DevOps OAuth
