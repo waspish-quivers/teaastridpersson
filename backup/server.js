@@ -5,3 +5,4 @@ Docker Serverless Act as if what you do makes a difference. It does. Framework D
 Neural Networks The only way to do great work is to love what you do. RabbitMQ Data Pipeline Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. Performance WebSockets To be the best, you must be able to handle the worst. Event Sourcing API NLP I find that the harder I work, the more luck I seem to have. DNS Routing Version Control RabbitMQ Framework Docker
 Predictive Analytics Scalability Kubernetes Virtual Machines Kafka Success usually comes to those who are too busy to be looking for it. Lambda Functions Don't be afraid to give up the good to go for the great. Server Response Blockchain React Replica Set
+Neural Networks Stay hungry, stay foolish. Great things never come from comfort zones. Multi-threading Performance Agile Security Machine Learning GraphQL
