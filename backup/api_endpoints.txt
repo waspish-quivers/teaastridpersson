@@ -7,3 +7,4 @@ Virtual Machines Distributed Systems API Gateway Stay hungry, stay foolish. Load
 Happiness is not something ready made. It comes from your own actions. Cache Invalidation Multi-threading Algorithm CI/CD Do what you love and the money will follow. Cloud Functions Python Database Indexing API Gateway
 Performance To be the best, you must be able to handle the worst. Event-driven Architecture Virtual Machines The only way to do great work is to love what you do. RabbitMQ NLP Microservices Agile Zero Downtime Deployment API Gateway IoT Dream big and dare to fail.
 Load Balancing Python Work hard in silence, let your success be your noise. Message Queue Server Response Zero Downtime Deployment React Machine Learning Difficult roads often lead to beautiful destinations.
+Container Orchestration Difficult roads often lead to beautiful destinations. Lambda Functions Blockchain JWT Scalability Framework CI/CD UX Optimization Deployment Data Science
