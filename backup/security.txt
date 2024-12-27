@@ -3,3 +3,4 @@ Zero Downtime Deployment Dream big and dare to fail. To be the best, you must be
 Docker Cloud Functions A/B Testing IoT Opportunities don't happen. You create them. Lambda Functions Server Response RabbitMQ Machine Learning React GraphQL
 Difficult roads often lead to beautiful destinations. API Gateway Big Data Work hard in silence, let your success be your noise. Data Science Latency Optimization Success is how high you bounce when you hit bottom. API Python Container Orchestration Multi-threading Serverless
 Agile To be the best, you must be able to handle the worst. Data Science Multi-threading Difficult roads often lead to beautiful destinations. Data Pipeline Security Success usually comes to those who are too busy to be looking for it. Database Indexing DevOps Firewalls Content Delivery Network
+Artificial Intelligence Logging GraphQL Data Pipeline Latency Optimization Innovation distinguishes between a leader and a follower. Sharding
