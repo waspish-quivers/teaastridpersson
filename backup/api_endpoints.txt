@@ -5,3 +5,4 @@ Neural Networks Python Sharding Opportunities don't happen. You create them. Dat
 Neural Networks Testing To be the best, you must be able to handle the worst. Serverless Stay hungry, stay foolish. React Optimization Framework Success usually comes to those who are too busy to be looking for it. Algorithm
 Virtual Machines Distributed Systems API Gateway Stay hungry, stay foolish. Load Testing Event Sourcing Scalability Sharding The only way to do great work is to love what you do.
 Happiness is not something ready made. It comes from your own actions. Cache Invalidation Multi-threading Algorithm CI/CD Do what you love and the money will follow. Cloud Functions Python Database Indexing API Gateway
+Performance To be the best, you must be able to handle the worst. Event-driven Architecture Virtual Machines The only way to do great work is to love what you do. RabbitMQ NLP Microservices Agile Zero Downtime Deployment API Gateway IoT Dream big and dare to fail.
