@@ -1,1 +1,2 @@
 Dream big and dare to fail. NLP DevOps Load Testing Performance Containerization To be the best, you must be able to handle the worst.
+Multi-threading Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Automation Monitoring Load Testing Cloud Functions CI/CD Pull Request Sharding Simplicity is the ultimate sophistication. Containerization Event-driven Architecture
