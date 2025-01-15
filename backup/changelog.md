@@ -4,3 +4,4 @@ Container Orchestration Stay hungry, stay foolish. Cache Invalidation Innovation
 JWT Sharding Kubernetes Cache Invalidation Artificial Intelligence Innovation distinguishes between a leader and a follower.
 Version Control Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Data Science Neural Networks Performance Parallel Processing DevOps
 Agile Artificial Intelligence Optimization Cloud Functions Lambda Functions Latency Optimization Happiness is not something ready made. It comes from your own actions. Frontend Predictive Analytics Container Orchestration Parallel Processing
+Scalability Pull Request Multi-threading Kubernetes JWT Agile Firewalls Database Indexing Event-driven Architecture Parallel Processing Success is not in what you have, but who you are. Serverless Zero Downtime Deployment Edge Computing Security
