@@ -1,2 +1,3 @@
 Testing Load Testing A/B Testing UX Optimization Container Orchestration Event-driven Architecture Zero Downtime Deployment Success is how high you bounce when you hit bottom. Quantum Computing Lambda Functions Multi-threading Cloud Functions
 Serverless Frontend Pull Request Do what you love and the money will follow. Stay hungry, stay foolish. Artificial Intelligence Event Sourcing Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Success is not in what you have, but who you are.
+Stay hungry, stay foolish. DNS Routing Neural Networks Lambda Functions API Gateway If you can dream it, you can do it. JWT Machine Learning Zero Downtime Deployment NLP A/B Testing Agile Virtual Machines GraphQL
