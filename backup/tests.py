@@ -1,1 +1,2 @@
 To be the best, you must be able to handle the worst. Blockchain Stay hungry, stay foolish. CI/CD Cache Invalidation Monitoring Security Microservices Distributed Systems Logging Frontend Act as if what you do makes a difference. It does. Python Neural Networks JavaScript
+Microservices Security Docker Logging Success usually comes to those who are too busy to be looking for it. Firewalls Difficult roads often lead to beautiful destinations. Server Response IoT NLP Sharding
