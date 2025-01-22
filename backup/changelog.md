@@ -2,3 +2,4 @@ Stay hungry, stay foolish. Load Testing Don't be afraid to give up the good to g
 Quantum Computing A/B Testing API Difficult roads often lead to beautiful destinations. Database Indexing Don't be afraid to give up the good to go for the great. Cache Invalidation Dream big and dare to fail. Optimization
 Container Orchestration Stay hungry, stay foolish. Cache Invalidation Innovation distinguishes between a leader and a follower. Quantum Computing Version Control Monitoring Logging Message Queue API Gateway Machine Learning
 JWT Sharding Kubernetes Cache Invalidation Artificial Intelligence Innovation distinguishes between a leader and a follower.
+Version Control Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Data Science Neural Networks Performance Parallel Processing DevOps
