@@ -1,3 +1,4 @@
 Machine Learning Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. NLP Logging Deployment Code Review Database Indexing Database Parallel Processing Latency Optimization Kafka Microservices Dream big and dare to fail.
 API Gateway Distributed Systems Docker Act as if what you do makes a difference. It does. Zero Downtime Deployment Python Logging A/B Testing Machine Learning DNS Routing IoT Data Science Multi-threading I find that the harder I work, the more luck I seem to have.
 Quantum Computing CI/CD JWT Automation Act as if what you do makes a difference. It does. API Gateway OAuth Sharding Success is not in what you have, but who you are. Virtual Machines
+React Logging Kubernetes Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
