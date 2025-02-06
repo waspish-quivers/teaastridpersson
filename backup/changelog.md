@@ -1,2 +1,3 @@
 Stay hungry, stay foolish. Load Testing Don't be afraid to give up the good to go for the great. Multi-threading Edge Computing Success doesn’t just find you. You have to go out and get it. Cloud Code Review RabbitMQ Server Response Zero Downtime Deployment Distributed Systems Message Queue
 Quantum Computing A/B Testing API Difficult roads often lead to beautiful destinations. Database Indexing Don't be afraid to give up the good to go for the great. Cache Invalidation Dream big and dare to fail. Optimization
+Container Orchestration Stay hungry, stay foolish. Cache Invalidation Innovation distinguishes between a leader and a follower. Quantum Computing Version Control Monitoring Logging Message Queue API Gateway Machine Learning
