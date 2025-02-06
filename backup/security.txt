@@ -1,1 +1,2 @@
 JWT Data Pipeline Version Control Multi-threading Scalability Dream big and dare to fail. Zero Downtime Deployment
+Zero Downtime Deployment Dream big and dare to fail. To be the best, you must be able to handle the worst. API Gateway Cloud Kafka Kubernetes
